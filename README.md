@@ -4,8 +4,9 @@
 <!--
 **PaoO23/PaoO23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+ ## About me
 
-I'm interested in how the brain connects millions of neurons in a network in an organized, adaptive way. 
+-I'm interested in how the brain connects millions of neurons in a network in an organized, adaptive way. 
 
 Here are some ideas to get you started:
 
