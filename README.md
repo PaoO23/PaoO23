@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![brain](https://user-images.githubusercontent.com/62915864/177062497-0da6f6f3-06a9-43c3-be5d-bf322ed083cc.png)
-
+![perfileGithub](https://user-images.githubusercontent.com/62915864/177063846-413b004b-3618-4016-b0ff-f9a5cdae4776.png)
 <!--
 **PaoO23/PaoO23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
