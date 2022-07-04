@@ -6,3 +6,10 @@
 
 I'm interested in how the 🧠 brain connects millions of neurons as a network in an organized, adaptive way and how this functional network changes during age, cognitive process or disease.
 
+## Programming Languages
+Fortran 77
+Python
+MATLAB
+R (Basic)
+
+
